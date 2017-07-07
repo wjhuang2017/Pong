@@ -1,2 +1,2 @@
 # Pong
-PC Game Made by C#
+PC Mini Game Made by Unity in C#
